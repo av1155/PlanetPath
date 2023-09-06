@@ -11,7 +11,10 @@ Welcome to [PlanetPath](https://a-projectspython-projectsplanetpathstreamlit-pla
 
 ## Description
 
-PlanetPath is a web application built with Streamlit that uses the geopy and geodesic libraries to calculate the distance between two locations and the Walking and Biking emissions per mile.
+PlanetPath is a web application built with Streamlit for a Hackathon that uses the geopy and geodesic libraries to calculate the distance between two locations and the Walking and Biking emissions per mile.
+
+Notably, my role in this initiative focused on the technical implementation, while my partner contributed their expertise in crafting an intuitive [UI/UX design](https://www.figma.com/proto/cvaXaHghwsOYhIHSj9CNm0/PlanetPath?node-id=1-4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=45%3A2783).
+
 
 ## Getting started
 
